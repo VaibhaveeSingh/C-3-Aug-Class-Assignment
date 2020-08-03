@@ -1,0 +1,7 @@
+F:\Zensar\DotNetTraining\C# Assignments\ConsoleAnimal\bin\Debug\ConsoleAnimal.exe.config
+F:\Zensar\DotNetTraining\C# Assignments\ConsoleAnimal\bin\Debug\ConsoleAnimal.exe
+F:\Zensar\DotNetTraining\C# Assignments\ConsoleAnimal\bin\Debug\ConsoleAnimal.pdb
+F:\Zensar\DotNetTraining\C# Assignments\ConsoleAnimal\obj\Debug\ConsoleAnimal.csprojAssemblyReference.cache
+F:\Zensar\DotNetTraining\C# Assignments\ConsoleAnimal\obj\Debug\ConsoleAnimal.csproj.CoreCompileInputs.cache
+F:\Zensar\DotNetTraining\C# Assignments\ConsoleAnimal\obj\Debug\ConsoleAnimal.exe
+F:\Zensar\DotNetTraining\C# Assignments\ConsoleAnimal\obj\Debug\ConsoleAnimal.pdb

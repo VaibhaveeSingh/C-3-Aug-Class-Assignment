@@ -1,0 +1,7 @@
+F:\Zensar\DotNetTraining\C# Assignments\Assignment2(3-8)\bin\Debug\Assignment2(3-8).exe.config
+F:\Zensar\DotNetTraining\C# Assignments\Assignment2(3-8)\bin\Debug\Assignment2(3-8).exe
+F:\Zensar\DotNetTraining\C# Assignments\Assignment2(3-8)\bin\Debug\Assignment2(3-8).pdb
+F:\Zensar\DotNetTraining\C# Assignments\Assignment2(3-8)\obj\Debug\Assignment2(3-8).csprojAssemblyReference.cache
+F:\Zensar\DotNetTraining\C# Assignments\Assignment2(3-8)\obj\Debug\Assignment2(3-8).csproj.CoreCompileInputs.cache
+F:\Zensar\DotNetTraining\C# Assignments\Assignment2(3-8)\obj\Debug\Assignment2(3-8).exe
+F:\Zensar\DotNetTraining\C# Assignments\Assignment2(3-8)\obj\Debug\Assignment2(3-8).pdb
